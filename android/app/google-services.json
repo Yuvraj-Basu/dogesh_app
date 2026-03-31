@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500521414393",
+    "project_id": "dogesh-the-pet-care-app",
+    "storage_bucket": "dogesh-the-pet-care-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500521414393:android:631dbef6efdda416183c28",
+        "android_client_info": {
+          "package_name": "com.dogesh.dogesh_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXlc7I3bXSMY7YCvwDhSI6ZvJG3o2Q-mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

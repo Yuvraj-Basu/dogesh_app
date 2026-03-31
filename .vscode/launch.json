@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "DOGESH Application",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "DOGESH - Profile Mode",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "DOGESH - Release Mode",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
